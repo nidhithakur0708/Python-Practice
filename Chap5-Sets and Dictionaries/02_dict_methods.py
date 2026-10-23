@@ -33,3 +33,6 @@ print(marks)
 #7.popitem()-removes the last inserted key value pairs
 marks.popitem()
 print(marks)
+
+#8.len
+print(len(marks))

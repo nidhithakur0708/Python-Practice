@@ -1,3 +1,6 @@
+#Empty Dictionary
+
+d={}
 #Dictionary is collection of key value pairs
 marks={
     'Nidhi':100,
