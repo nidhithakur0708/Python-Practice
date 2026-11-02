@@ -1,0 +1,4 @@
+Hi World,
+This is a python tutorial
+To learn file functions
+and practice them
