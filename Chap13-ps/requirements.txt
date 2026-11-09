@@ -1,0 +1,5 @@
+numpy==2.5.4
+pandas==3.1.1
+pyjokes==0.8.3
+python-dateutil==4.0.0
+tzdata==2026.6
